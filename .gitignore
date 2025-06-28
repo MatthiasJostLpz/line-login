@@ -14,3 +14,6 @@
 .env
 bin
 release
+
+# ort outputs
+ort-result
